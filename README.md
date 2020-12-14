@@ -1,1 +1,3 @@
 # Battleships
+
+  Codecool Project
